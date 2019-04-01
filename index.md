@@ -21,7 +21,7 @@ This milestone started on April 1, 2019 and is currently in progress.
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system. To simplify things, the mockup was developed as a Meteor app. This meant that each page was a template and changed accordingly.
 Mockups for the following four pages were implemented during M1:
 
-Milestone 1 was implemented as [uhire GitHub Milestone M1](https://github.com/uhire-app/uhire/milestone/1)::
+Milestone 1 was implemented as [uhire GitHub Milestone M1](https://github.com/uhire/uhire-app/milestone/1)::
 
 Milestone 1 consisted of fourteen issues, and progress was managed via the [uhire GitHub Project M1]
 
