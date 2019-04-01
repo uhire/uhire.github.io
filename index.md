@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About Bowfolios](#about-bowfolios)
+* [About uhire](#about-uhire)
 * [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
