@@ -6,7 +6,7 @@
 
 # About uhire
 
-BowFolios is a Meteor application providing portfolios for the University of Hawaii community. When you come to the site, you are greeted by the following landing page:
+UHire is a Meteor application that provides company and student profiles. Based on the information provided companies can contact students to hire, or the students can view companies they are interested in.
 
 # Development History
 
