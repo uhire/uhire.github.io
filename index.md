@@ -2,7 +2,7 @@
 
 * [About uhire](#about-uhire)
 * [Development history](#development-history)
-  * [Milestone 1: Mockup development](#milestone-1-mockup-development)
+* [Milestone 1: Mockup development](#milestone-1-mockup-development)
 
 # About uhire
 
