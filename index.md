@@ -31,21 +31,21 @@ Each issue was implemented in its own branch, and merged into master when comple
 ## Mockups:
 
 Student Collection:
-First Name
-Last Name
-Profile Picture
-Geographic Location
-Interests
-Skills
+First Name,
+Last Name,
+Profile Picture,
+Geographic Location,
+Interests,
+Skills,
 Website Link
 
 Company Collection:
-Company Name
-Peter Newton
-Overview
-Geographic Location
-Availivle Positions(Collection?)
-Contact email(s) for followup.
+Company Name,
+Peter Newton,
+Overview,
+Geographic Location,
+Availivle Positions(Collection?),
+Contact email(s)
 
 
 <img src="/images/ahome.jpg">
