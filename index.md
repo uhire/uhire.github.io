@@ -40,7 +40,13 @@ Student Home:
 
 Admin Home:
 
+Footer:
 
+Nav Bar:
+
+Company Profile:
+
+Student Profile:
 
 <img src="/images/ahome.jpg">
 <img src="/images/chome.jpg">
