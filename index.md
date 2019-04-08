@@ -28,24 +28,18 @@ Milestone 1 consisted of fourteen issues, and progress was managed via the [uhir
 
 Each issue was implemented in its own branch, and merged into master when completed.
 
-## Mockups:
-
 Student Collection:
-First Name,
-Last Name,
-Profile Picture,
-Geographic Location,
-Interests,
-Skills,
-Website Link
 
 Company Collection:
-Company Name,
-Peter Newton,
-Overview,
-Geographic Location,
-Availivle Positions(Collection?),
-Contact email(s)
+
+Landing Page:
+
+Company Home:
+
+Student Home:
+
+Admin Home:
+
 
 
 <img src="/images/ahome.jpg">
