@@ -59,7 +59,7 @@ Nav Bar:
 <img src="/images/LandingPage.png">
 
 Company Profile:
-<img src="/images/CompanyProfile.png">
+<img src="/images/Company Profile.png">
 [CompanyProfile](http://uhire.meteorapp.com/#/list)
 
 Student Profile:
