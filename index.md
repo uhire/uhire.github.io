@@ -68,7 +68,7 @@ Student Profile:
 [StudentProfile](http://uhire.meteorapp.com/#/sprofile)
 
 ## Milestone 2: Update Functionality
-Link to [Milestone 2](https://github.com/uhire/uhire-app/milestone/2)
+Link to [Milestone 2](https://github.com/uhire/uhire-app/projects/2)
 Milestone 2 consisted of 10 issues and began on April 4, 2019 and is currently in progress.
 The goal of Milestone 2 is to update the functionality of the app. For example adding search functions, adding roles, and correcting the corresponding homepages.
 
