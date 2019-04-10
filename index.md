@@ -66,7 +66,8 @@ Student Profile:
 <img src="/images/StudentProfile.png">
 [StudentProfile](http://uhire.meteorapp.com/#/sprofile)
 
-
+## Milestone 1: Mockup development
+Link to [Milestone 2](https://github.com/uhire/uhire-app/milestone/2)
 
 
 
