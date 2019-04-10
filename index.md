@@ -35,25 +35,20 @@ Company Collection:
 Landing Page:
 <img src="/images/LandingPage.jpg">
 Company Home:
-
+<img src="/images/CompanyHome.jpg">
 Student Home:
-
+<img src="/images/StudentHome.jpg">
 Admin Home:
-
+<img src="/images/AdminHome.jpg">
 Footer:
 
 Nav Bar:
-
+<img src="/images/LandingPage.jpg">
 Company Profile:
-
+<img src="/images/CompanyProfile.jpg">
 Student Profile:
+<img src="/images/StudentProfile.jpg">
 
-<img src="/images/ahome.jpg">
-<img src="/images/chome.jpg">
-<img src="/images/shome.jpg">
-<img src="/images/sprofile.jpg">
-<img src="/images/cprofile.jpg">
-<img src="/images/landing.jpg">
 
 
 
