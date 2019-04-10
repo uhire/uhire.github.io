@@ -3,7 +3,7 @@
 * [About UHire](#about-uhire)
 * [Development history](#development-history)
 * [Milestone 1: Mockup development](#milestone-1-mockup-development)
-* [Milestone 2: Update Functionality](#update-functionality)
+* [Milestone 2: Update Functionality](#milestone-2-update-functionality)
 
 # About UHire
 
