@@ -33,7 +33,7 @@ Student Collection:
 Company Collection:
 
 Landing Page:
-
+<img src="/images/landing.jpg">
 Company Home:
 
 Student Home:
