@@ -27,7 +27,7 @@ Milestone 1 was implemented as [UHire GitHub Milestone M1](https://github.com/uh
 Milestone 1 consisted of fourteen issues, and progress was managed via the [uhire GitHub Project M1]
 
 Each issue was implemented in its own branch, and merged into master when completed.
-Here is the running page on Galaxy: http://uhire.meteorapp.com/#/
+Here is the running page on Galaxy: [UHire](http://uhire.meteorapp.com/#/)
 
 Student Collection:
 
