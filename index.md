@@ -28,22 +28,29 @@ Milestone 1 consisted of fourteen issues, and progress was managed via the [uhir
 
 Each issue was implemented in its own branch, and merged into master when completed.
 Here is the running page on Galaxy: [UHire](http://uhire.meteorapp.com/#/)
+Below each updated image of the MileStone1 Issues, are links to the corresponding page on galaxy.
 
 Student Collection:
+FirstName,LastName,Image,CurrentYear,CurrentOccupation,Interests,Location, Image
 
 Company Collection:
+Name,Location,Description,Contact Info, Image
 
 Landing Page:
 <img src="/images/LandingPage.png">
+[LandingPage](http://uhire.meteorapp.com/#/)
 
 Company Home:
 <img src="/images/CompanyHome.png">
+[CompanyHome](http://uhire.meteorapp.com/#/cohome)
 
 Student Home:
 <img src="/images/StudentHome.png">
+[StudentHome](http://uhire.meteorapp.com/#/studentHome)
 
 Admin Home:
 <img src="/images/AdminHome.png">
+[AdminHome](http://uhire.meteorapp.com/#/admin)
 
 Footer:
 <img src="/images/Footer.png">
@@ -53,9 +60,11 @@ Nav Bar:
 
 Company Profile:
 <img src="/images/CompanyProfile.png">
+[CompanyProfile](http://uhire.meteorapp.com/#/list)
 
 Student Profile:
 <img src="/images/StudentProfile.png">
+[StudentProfile](http://uhire.meteorapp.com/#/sprofile)
 
 
 
