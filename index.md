@@ -33,21 +33,21 @@ Student Collection:
 Company Collection:
 
 Landing Page:
-<img src="/images/LandingPage.jpg">
+<img src="/images/LandingPage.png">
 Company Home:
-<img src="/images/CompanyHome.jpg">
+<img src="/images/CompanyHome.png">
 Student Home:
-<img src="/images/StudentHome.jpg">
+<img src="/images/StudentHome.png">
 Admin Home:
-<img src="/images/AdminHome.jpg">
+<img src="/images/AdminHome.png">
 Footer:
-
+<img src="/images/Footer.png">
 Nav Bar:
-<img src="/images/LandingPage.jpg">
+<img src="/images/LandingPage.png">
 Company Profile:
-<img src="/images/CompanyProfile.jpg">
+<img src="/images/CompanyProfile.png">
 Student Profile:
-<img src="/images/StudentProfile.jpg">
+<img src="/images/StudentProfile.png">
 
 
 
