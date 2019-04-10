@@ -53,7 +53,7 @@ Admin Home:
 [AdminHome](http://uhire.meteorapp.com/#/admin)
 
 Footer:
-<img src="/images/Footer.png">
+<img src="/images/Footer1.png">
 
 Nav Bar:
 <img src="/images/LandingPage.png">
