@@ -12,6 +12,8 @@
 
 UHire is a Meteor application that provides company and student profiles. Based on the information provided companies can contact students to hire, or the students can view companies they are interested in and contact those companies as well. 
 
+Here is the running page on Galaxy: [UHire](http://uhire.meteorapp.com/#/)
+
 # Development History 
 
 The development process for UHire conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f16/modules/project-management/) practices. In a nutshell, development consists of a sequence of Milestones. Milestones consist of issues corresponding to 2-3 day tasks. GitHub projects are used to manage the processing of tasks during a milestone.  
@@ -90,7 +92,6 @@ Milestone 1 was implemented as [UHire GitHub Milestone M1](https://github.com/uh
 Milestone 1 consisted of fourteen issues, and progress was managed via the [uhire GitHub Project M1]
 
 Each issue was implemented in its own branch, and merged into master when completed.
-Here is the running page on Galaxy: [UHire](http://uhire.meteorapp.com/#/)
 Below each updated image of the MileStone1 Issues, are links to the corresponding page on galaxy.
 
 Student Collection:
