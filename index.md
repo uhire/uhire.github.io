@@ -17,7 +17,7 @@ The development process for UHire conformed to [Issue Driven Project Management]
 UHire is being developed by Dre Cardinalli, John Yap, Keoni Fontanilla, Kyle Okamoto, and Peter Newton.
 
 # Developer Guide
-First, you can clone the app from Github [UHire](https://github.com/uhire/uhire-app).
+First, you can clone the app from Github [UHire](https://github.com/uhire/uhire-app) onto your Github Desktop app. If you do not already have Github desktop, you can download it here [Github Desktop](https://desktop.github.com/).
 
 ## Milestone 1: Mockup development
 
