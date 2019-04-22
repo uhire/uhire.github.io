@@ -3,6 +3,7 @@
 * [Overview](#overview)
 * [Development history](#development-history)
 * [Developer guide](#developer-guide)
+* [User Guide](#User-guide)
 * [Milestone 1: Mockup development](#milestone-1-mockup-development)
 * [Milestone 2: Update Functionality](#milestone-2-update-functionality)
 
@@ -40,6 +41,41 @@ The app can be modified using IntellijIdea. If you do not currently own Intellij
 
 The app is shown below in IntellijIdea.
 <img src="/images/AppIntelliJIdea.png">
+
+#User Guide
+At this point the app should be running in your web browser.
+
+First is the landing page.On this page you can click on sign up, sign in or the logo. Clicking on these buttons will redirect you to sign up page, sign in page and the landing page respectively.
+<img src="/images/LandingPage.png">
+
+Next is the Sign In page. On this page you can sign in to your account if you already have an account or you can click the link on the bottom of the card to redirect you to the sign up page.
+<img src="/images/LoginV2.png">
+
+The Sign up page allows you to fill out a form to create an account.
+<img src="/images/SignUpV2.png">
+
+If you are a Student you will have access to the StudentHomePage,BrowseCompany Page, and StudentProfile Page.
+Before you can access those pages you will need to fill out a form for the StudentProfile.
+<img src="/images/StudentInfo.png">
+
+On the BrowseCompany Page, a student can look for companies that they are interested in.
+<img src="/images/BrowseCompany.png">
+
+All the information provided on the previous form will be put into a card on the StudentProfile Page. The information here can also be edited.
+<img src="/images/StudentProfile.png">
+
+If you are a Company you will have access to the CompanyHome Page, BrowseStudent Page, and CompanyProfile Page.
+Before you can access those pages you will need to fill out a form for the CompanyProfile.
+<img src="/images/CompanyInfo.png">
+
+On the BrowseStudent Page companies can look at all the student currently using uhire.
+<img src="/images/BrowserStudent.png">
+
+On the CompanyProfile Page you can look at the information that you provided on here, and edit the information as well.
+<img src="/images/CompanyProfile.png">
+
+The student and company can also add positions onto their profiles to inform others of what they are looking for.
+<img src="/images/AddPosition.png">
 
 ## Milestone 1: Mockup development
 
@@ -94,9 +130,15 @@ Student Profile:
 
 ## Milestone 2: Update Functionality
 Link to [Milestone 2](https://github.com/uhire/uhire-app/projects/2)
-Milestone 2 consisted of 10 issues, began on April 4, 2019 and was completed on April 21, 2019.
+Milestone 2 consisted of 22 issues, began on April 4, 2019 and was completed on April 21, 2019.
 The goal of Milestone 2 is to update the functionality of the app. For example adding search functions, adding roles, and correcting the corresponding homepages.
 
+We have successfully implemented the Browser function for both the company and student roles. We have also correctly redirected the corresponding homepages to student and company roles. The editing feature was added to the profile pages of company and student. The correct pages are being shown only to company roles or only to student roles.
+
+## Milestone 3: Clean Up Pages
+Link to [Milestone 3](https://github.com/uhire/uhire-app/milestone/3)
+Milestone 3 consists of 9 issues, began on April 22, 2019 and is currently in progress.
+The goal of Milestone 3 is to finalize any remaining issues as well as creating presentable pages by adding their own flare.
 
 
 
