@@ -43,7 +43,7 @@ The app can be modified using IntellijIdea. If you do not currently own Intellij
 The app is shown below in IntellijIdea.
 <img src="/images/AppIntelliJIdea.png">
 
-#User Guide
+# User Guide
 At this point the app should be running in your web browser.
 
 First is the landing page.On this page you can click on sign up, sign in or the logo. Clicking on these buttons will redirect you to sign up page, sign in page and the landing page respectively.
@@ -134,7 +134,15 @@ Link to [Milestone 2](https://github.com/uhire/uhire-app/projects/2)
 Milestone 2 consisted of 22 issues, began on April 4, 2019 and was completed on April 21, 2019.
 The goal of Milestone 2 is to update the functionality of the app. For example adding search functions, adding roles, and correcting the corresponding homepages.
 
-We have successfully implemented the Browser function for both the company and student roles. We have also correctly redirected the corresponding homepages to student and company roles. The editing feature was added to the profile pages of company and student. The correct pages are being shown only to company roles or only to student roles.
+We have successfully implemented the Browser function for both the company and student roles. We have also correctly redirected the corresponding homepages to student and company roles. 
+<img src="/images/BrowserStudent.png">
+<img src="/images/BrowseCompany.png">
+
+The editing feature was added to the profile pages of company and student. 
+<img src="/images/CompanyProfile.png">
+<img src="/images/StudentProfile.png">
+
+The correct pages are being shown only to company roles or only to student roles.
 
 ## Milestone 3: Clean Up Pages
 Link to [Milestone 3](https://github.com/uhire/uhire-app/milestone/3)
