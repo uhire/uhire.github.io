@@ -6,6 +6,7 @@
 * [User Guide](#User-guide)
 * [Milestone 1: Mockup development](#milestone-1-mockup-development)
 * [Milestone 2: Update Functionality](#milestone-2-update-functionality)
+* [Milestone 3: Clean Up Pages](#milestone-3-clean-up-pages)
 
 # Overview
 
