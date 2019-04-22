@@ -18,21 +18,28 @@ UHire is being developed by Dre Cardinalli, John Yap, Keoni Fontanilla, Kyle Oka
 
 # Developer Guide
 First, you can clone the app from Github [UHire](https://github.com/uhire/uhire-app) onto your Github Desktop app.
-<img src="/images/LandingPage.png">
-If you do not already have Github desktop, you can download it here [Github Desktop](https://desktop.github.com/). 
-Pic
-You will then need to install [meteor](https://www.meteor.com/install) as well as [chocolately](https://chocolatey.org/install) by following the instructions provided on the website.
-Pic
-After meteor and chocolately are installed on your system you are ready to start the app. You will need to cd into uhire-app/app like the example below.
-Pic
-Once in the app you will invoke meteor npm run start to start the app.
-The app is shown running at https:// local host3000
-Pic
-The app can be modified using IntellijIdea. If you do not currently own IntellijIdea you can download it here [IntellijIdea](https://www.jetbrains.com/idea/download/#section=windows)
-Pic
-The app is shown below in IntellijIdea.
-Pic
+<img src="/images/GithubCloneDownolad.png">
 
+If you do not already have Github desktop, you can download it here [Github Desktop](https://desktop.github.com/). 
+<img src="/images/GithubDesktop.png">
+
+You will then need to install [meteor](https://www.meteor.com/install) as well as [chocolately](https://chocolatey.org/install) by following the instructions provided on the website.
+<img src="/images/MeteorDownload.png">
+<img src="/images/ChocolatelyDownload.png">
+
+After meteor and chocolately are installed on your system you are ready to start the app. You will need to cd into uhire-app/app like the example below.
+<img src="/images/CommandPromptPath.png">
+
+Once in the app you will invoke meteor npm run start to start the app.
+The app is shown running at [http://localhost:3000/](http://localhost:3000/)
+<img src="/images/RunStart.png">
+<img src="/images/LocalHost.png">
+
+The app can be modified using IntellijIdea. If you do not currently own IntellijIdea you can download it here [IntellijIdea](https://www.jetbrains.com/idea/download/#section=windows)
+<img src="/images/IntelliJIdeaDownload.png">
+
+The app is shown below in IntellijIdea.
+<img src="/images/AppIntelliJIdea.png">
 
 ## Milestone 1: Mockup development
 
