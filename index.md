@@ -9,13 +9,11 @@
 
 UHire is a Meteor application that provides company and student profiles. Based on the information provided companies can contact students to hire, or the students can view companies they are interested in. 
 
-
 # Development History 
 
 The development process for UHire conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f16/modules/project-management/) practices. In a nutshell, development consists of a sequence of Milestones. Milestones consist of issues corresponding to 2-3 day tasks. GitHub projects are used to manage the processing of tasks during a milestone.  
 
 UHire is being developed by Dre Cardinalli, John Yap, Keoni Fontanilla, Kyle Okamoto, and Peter Newton.
-
 
 ## Milestone 1: Mockup development
 
@@ -70,7 +68,7 @@ Student Profile:
 
 ## Milestone 2: Update Functionality
 Link to [Milestone 2](https://github.com/uhire/uhire-app/projects/2)
-Milestone 2 consisted of 10 issues and began on April 4, 2019 and is currently in progress.
+Milestone 2 consisted of 10 issues, began on April 4, 2019 and was completed on April 21, 2019.
 The goal of Milestone 2 is to update the functionality of the app. For example adding search functions, adding roles, and correcting the corresponding homepages.
 
 
