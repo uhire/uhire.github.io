@@ -73,10 +73,10 @@ After meteor and chocolately are installed on your system you are ready to start
 
 The following commands should be run to install required packages:
 
-meteor add aldeed:collection2@3.0.0\
-meteor npm install --save simpl-schema\
-meteor npm install --save google-map-react\
-meteor add aldeed:schema-index
+* meteor add aldeed:collection2@3.0.0
+* meteor npm install --save simpl-schema
+* meteor npm install --save google-map-react
+* meteor add aldeed:schema-index
 
 
 
