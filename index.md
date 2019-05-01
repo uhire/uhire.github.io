@@ -135,7 +135,7 @@ The development process for UHire conformed to [Issue Driven Project Management]
 
 ## Milestone 1: Mockup development
 
-This milestone started on April 1, 2019 and is was finished on April 8, 2019.
+Milestone 1 started on April 1, 2019 and is was finished on April 8, 2019.
 
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system. To simplify things, the mockup was developed as a Meteor app. This meant that each page was a template and changed accordingly.
 Mockups for the following four pages were implemented during M1:
@@ -182,28 +182,35 @@ Student Profile:
 Milestone 1 was implemented as [UHire GitHub Milestone M1](https://github.com/uhire/uhire-app/projects/1):
 <img src="/images/M1Project.png">
 
-Milestone 1 consisted of fourteen issues, and progress was managed via the [uhire GitHub Project M1]:
+Milestone 1 consisted of 14 issues, and progress was managed via the [uhire GitHub Project M1]:
 <img src="/images/M1Closed.png">
 
 ## Milestone 2: Update Functionality
 Link to [Milestone 2](https://github.com/uhire/uhire-app/projects/2)
-Milestone 2 consisted of 22 issues, began on April 4, 2019 and was completed on April 21, 2019.
+Milestone 2 began on April 4, 2019 and was completed on April 21, 2019.
 The goal of Milestone 2 is to update the functionality of the app. For example adding search functions, adding roles, and correcting the corresponding homepages.
 
 We have successfully implemented the Browser function for both the company and student roles. We have also correctly redirected the corresponding homepages to student and company roles. 
-<img src="/images/BrowserStudent.png">
-<img src="/images/BrowseCompany.png">
-
 The editing feature was added to the profile pages of company and student. 
-<img src="/images/CompanyProfile.png">
-<img src="/images/StudentProfile.png">
-
 The correct pages are being shown only to company roles or only to student roles.
+
+Milestone 2 was implemented as [Milestone 2](https://github.com/uhire/uhire-app/projects/2):
+<img src="/images/M2Project.png">
+
+Milestone 2 consisted of 22 issues, and progress was managed via the [uhire GitHub Project M2]:
+<img src="/images/M2Closed.png">
 
 ## Milestone 3: Clean Up Pages
 Link to [Milestone 3](https://github.com/uhire/uhire-app/milestone/3)
-Milestone 3 consists of 16 issues, began on April 22, 2019 and was completed on April 30, 2019.
+Milestone 3 began on April 22, 2019 and was completed on April 30, 2019.
 The goal of Milestone 3 is to finalize any remaining issues as well as creating presentable pages by adding their own flare.
+We have successfully corrected any previous errors from Milestone 2, improved form validation, and corrected the search functions.
+
+Milestone 3 was implemented as [Milestone 3](https://github.com/uhire/uhire-app/projects/3):
+<img src="/images/M3Project.png">
+
+Milestone 3 consisted of 16 issues, and progress was managed via the [uhire GitHub Project M3]:
+<img src="/images/M3Closed.png">
 
 
 
