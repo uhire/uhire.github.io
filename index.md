@@ -2,14 +2,14 @@
 
 * [Overview](#overview)
 * [Developer guide](#developer-guide)  
- * [Structure of Directory](#structure-of-directory)  
- * [Imports](#imports)  
- * [Naming Conventions](#naming-conventions)
+  * [Structure of Directory](#structure-of-directory)  
+  * [Imports](#imports)  
+  * [Naming Conventions](#naming-conventions)
 * [User Guide](#User-guide)
 * [Development history](#development-history)
- * [Milestone 1: Mockup development](#milestone-1-mockup-development)
- * [Milestone 2: Update Functionality](#milestone-2-update-functionality)
- * [Milestone 3: Clean Up Pages](#milestone-3-clean-up-pages)
+  * [Milestone 1: Mockup development](#milestone-1-mockup-development)
+  * [Milestone 2: Update Functionality](#milestone-2-update-functionality)
+  * [Milestone 3: Clean Up Pages](#milestone-3-clean-up-pages)
 
 # Overview
 
