@@ -4,6 +4,7 @@
 * [Developer guide](#developer-guide)
  * [Structure of Directory](#structure-of-directory)
  * [Imports](#imports)
+ * [Naming Conventions](#naming-conventions)
 * [User Guide](#User-guide)
 * [Development history](#development-history)
  * [Milestone 1: Mockup development](#milestone-1-mockup-development)
@@ -28,6 +29,15 @@ The top level of the app contains these files:
 ## Imports
 Imports are used to load the server and client contents. Only two files are invoking the main.js file and are in the server and client files. Here is an example of client\main.js which imports both, which contains the company and student collections, the client itself, and the style.css.  
 <img src="/images/ImportExample.png">
+
+Other imports are used as well throughout the components directory and the pages directory to incorporate the purpose of the application built.
+
+## Naming Conventions
+Pascal Case was used as the naming convention of the JSX files. For example, StudentHome.jsx.
+Camel Case was used as the naming convention for the naming of variables. For example, emailRegex.
+
+## Data Model
+The Uhire data model uses four different Javascript classes, [StudentCollection](https://github.com/uhire/uhire-app/blob/master/app/imports/api/stuff/student.js), [InterestCollection](https://github.com/uhire/uhire-app/blob/master/app/imports/api/stuff/interests.js), [CompanyCollection](https://github.com/uhire/uhire-app/blob/master/app/imports/api/company/company.js), and [PositionCollection](https://github.com/uhire/uhire-app/blob/master/app/imports/api/position/position.js).
 
 First, you can clone the app from Github [UHire](https://github.com/uhire/uhire-app) onto your Github Desktop app.
 <img src="/images/GithubCloneDownolad.png">
