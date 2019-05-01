@@ -3,6 +3,7 @@
 * [Overview](#overview)
 * [Developer guide](#developer-guide)
  * [Structure of Directory](#structure-of-directory)
+ * [Imports](#imports)
 * [User Guide](#User-guide)
 * [Development history](#development-history)
  * [Milestone 1: Mockup development](#milestone-1-mockup-development)
@@ -23,6 +24,10 @@ The very top level of the directory contains these files:
 
 The top level of the app contains these files:  
 <img src="/images/DirectoryStructureApp.png">
+
+## Imports
+Imports are used to load the server and client contents. Only two files are invoking the main.js file and are in the server and client files. Here is an example of client\main.js which imports both, which contains the company and student collections, the client itself, and the style.css.  
+<img src="/images/ImportExample.png">
 
 First, you can clone the app from Github [UHire](https://github.com/uhire/uhire-app) onto your Github Desktop app.
 <img src="/images/GithubCloneDownolad.png">
