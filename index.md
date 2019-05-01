@@ -1,10 +1,16 @@
 # Table of contents
 
 * [Overview](#overview)
-* [Developer guide](#developer-guide)  
+* [Developer Guide](#developer-guide)  
   * [Structure of Directory](#structure-of-directory)  
   * [Imports](#imports)  
   * [Naming Conventions](#naming-conventions)
+  * [Data Model](#data-model)
+  * [Style](#style)
+  * [Authorization](#authorization)
+  * [Configuration](#configuration)
+  * [Coding Standards](#coding-standards)
+* [Installation Steps](#installation-steps)
 * [User Guide](#User-guide)
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
@@ -37,8 +43,21 @@ Pascal Case was used as the naming convention of the JSX files. For example, Stu
 Camel Case was used as the naming convention for the naming of variables. For example, emailRegex.
 
 ## Data Model
-The Uhire data model uses four different Javascript classes, [StudentCollection](https://github.com/uhire/uhire-app/blob/master/app/imports/api/stuff/student.js), [InterestCollection](https://github.com/uhire/uhire-app/blob/master/app/imports/api/stuff/interests.js), [CompanyCollection](https://github.com/uhire/uhire-app/blob/master/app/imports/api/company/company.js), and [PositionCollection](https://github.com/uhire/uhire-app/blob/master/app/imports/api/position/position.js).
+The Uhire data model uses four different Javascript classes, [StudentCollection](https://github.com/uhire/uhire-app/blob/master/app/imports/api/stuff/student.js), [InterestCollection](https://github.com/uhire/uhire-app/blob/master/app/imports/api/stuff/interests.js), [CompanyCollection](https://github.com/uhire/uhire-app/blob/master/app/imports/api/company/company.js), and [PositionCollection](https://github.com/uhire/uhire-app/blob/master/app/imports/api/position/position.js). You can add a new item to each collection or you can get an item from each collection, depending on what kind of operation you want to do.
 
+## Style
+The style used for Uhire is the same style for Semantic-UI-React. The basic CSS is used for every page generated in the application. The style we decided to implement was to put the nav-bar on the top followed by the contents of the body, while also leaving some color in the background, so the site isn't plain.
+
+## Authorization
+The landing page is public to all users, whether they have accounts or not. A user must sign up and login to gain access to either the student role or company role. The student role has access to the student home page, landing page, and browse company page. The company role has access to the company home page, landing page, and browse student page.
+
+## Configuration
+The config(https://github.com/uhire/uhire-app/tree/master/config) directory is used for default data as well as some test data. When mongoDB is started these accounts are created.
+
+## Coding Standards
+The coding standard used for the development of the application was ESLint. This coding standard helps to create good coding habits and notifies users when certain things are missing. Go to this website to learn more about ESLint(https://eslint.org/).
+
+## Installation Steps
 First, you can clone the app from Github [UHire](https://github.com/uhire/uhire-app) onto your Github Desktop app.
 <img src="/images/GithubCloneDownolad.png">
 
