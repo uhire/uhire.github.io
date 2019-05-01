@@ -60,9 +60,13 @@ If you are a Student you will have access to the StudentHomePage and Company Sea
 Before you can access those pages you will need to fill out a form for the StudentHome.
 <img src="/images/StudentInfo.png">
 
+##Browse Companies Page
 The most important feature on this website is the search feature.
 The student is able to search for companies and can filter by location and company name.
 <img src="/images/CompanySearch.png">
+
+##Student Home Page
+On this page you can look at the information that you previously filled out in the form
 
 If you are a Company you will have access to the CompanyHome Page, BrowseStudent Page, and CompanyProfile Page.
 Before you can access those pages you will need to fill out a form for the CompanyProfile.
