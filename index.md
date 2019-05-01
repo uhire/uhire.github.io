@@ -2,7 +2,7 @@
 
 * [Overview](#overview)
 * [Development history](#development-history)
-* [Developer guide](#developer-guide)
+** [Developer guide](#developer-guide)
 * [User Guide](#User-guide)
 * [Milestone 1: Mockup development](#milestone-1-mockup-development)
 * [Milestone 2: Update Functionality](#milestone-2-update-functionality)
