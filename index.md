@@ -39,14 +39,14 @@ Imports are used to load the server and client contents. Only two files are invo
 Other imports are used as well throughout the components directory and the pages directory to incorporate the purpose of the application built.
 
 ## Naming Conventions
-Pascal Case was used as the naming convention of the JSX files. For example, StudentHome.jsx.
-Camel Case was used as the naming convention for the naming of variables. For example, emailRegex.
+* Pascal Case was used as the naming convention of the JSX files. For example, StudentHome.jsx.  
+* Camel Case was used as the naming convention for the naming of variables. For example, emailRegex.
 
 ## Data Model
 The Uhire data model uses four different Javascript classes, [StudentCollection](https://github.com/uhire/uhire-app/blob/master/app/imports/api/stuff/student.js), [InterestCollection](https://github.com/uhire/uhire-app/blob/master/app/imports/api/stuff/interests.js), [CompanyCollection](https://github.com/uhire/uhire-app/blob/master/app/imports/api/company/company.js), and [PositionCollection](https://github.com/uhire/uhire-app/blob/master/app/imports/api/position/position.js). You can add a new item to each collection or you can get an item from each collection, depending on what kind of operation you want to do.
 
 ## Style
-The style used for Uhire is the same style for Semantic-UI-React. The basic CSS is used for every page generated in the application. The style we decided to implement was to put the nav-bar on the top followed by the contents of the body, while also leaving some color in the background, so the site isn't plain.
+The style used for Uhire is the same style based on Semantic-UI CSS. The [CSS](https://github.com/uhire/uhire-app/blob/master/app/client/style.css) was used for every page generated in the application. The style we decided to implement was to put the nav-bar on the top followed by the contents of the body, while also leaving some color in the background, so the site isn't plain.
 
 ## Authorization
 The landing page is public to all users, whether they have accounts or not. A user must sign up and login to gain access to either the student role or company role. The student role has access to the student home page, landing page, and browse company page. The company role has access to the company home page, landing page, and browse student page.
@@ -140,10 +140,6 @@ This milestone started on April 1, 2019 and is was finished on April 8, 2019.
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system. To simplify things, the mockup was developed as a Meteor app. This meant that each page was a template and changed accordingly.
 Mockups for the following four pages were implemented during M1:
 
-Milestone 1 was implemented as [UHire GitHub Milestone M1](https://github.com/uhire/uhire-app/projects/1)::
-
-Milestone 1 consisted of fourteen issues, and progress was managed via the [uhire GitHub Project M1]
-
 Each issue was implemented in its own branch, and merged into master when completed.
 Below each updated image of the MileStone1 Issues, are links to the corresponding page on galaxy.
 
@@ -183,6 +179,12 @@ Student Profile:
 <img src="/images/StudentProfile.png">
 [StudentProfile](http://uhire.meteorapp.com/#/sprofile)
 
+Milestone 1 was implemented as [UHire GitHub Milestone M1](https://github.com/uhire/uhire-app/projects/1):
+<img src="/images/M1Project.png">
+
+Milestone 1 consisted of fourteen issues, and progress was managed via the [uhire GitHub Project M1]:
+<img src="/images/M1Closed.png">
+
 ## Milestone 2: Update Functionality
 Link to [Milestone 2](https://github.com/uhire/uhire-app/projects/2)
 Milestone 2 consisted of 22 issues, began on April 4, 2019 and was completed on April 21, 2019.
@@ -200,8 +202,12 @@ The correct pages are being shown only to company roles or only to student roles
 
 ## Milestone 3: Clean Up Pages
 Link to [Milestone 3](https://github.com/uhire/uhire-app/milestone/3)
-Milestone 3 consists of 9 issues, began on April 22, 2019 and is currently in progress.
+Milestone 3 consists of 16 issues, began on April 22, 2019 and was completed on April 30, 2019.
 The goal of Milestone 3 is to finalize any remaining issues as well as creating presentable pages by adding their own flare.
+
+
+
+
 
 
 
