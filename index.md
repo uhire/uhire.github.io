@@ -71,19 +71,25 @@ The student is able to search for companies and can filter by location and compa
 
 ### Student Home Page
 On this page you can look at the information that you previously filled out in the form
-
-If you are a Company you will have access to the CompanyHome Page, BrowseStudent Page, and CompanyProfile Page.
-Before you can access those pages you will need to fill out a form for the CompanyProfile.
 <img src="/images/StudentHome.png">
 
+If you are a Company you will have access to the CompanyHome Page and BrowseStudent Page.
+
+### Add Company Page
+Before you can access those pages you will need to fill out a form for the CompanyProfile.
+<img src="/images/FinalAddCompany.png">
+
+### Browse Student Page
 On the BrowseStudent Page companies can look at all the student currently using uhire.
-<img src="/images/BrowserStudent.png">
+<img src="/images/FinalBrowseStudent.png">
 
-On the CompanyProfile Page you can look at the information that you provided on here, and edit the information as well.
-<img src="/images/CompanyProfile.png">
+### Company Home Page
+On the CompanyHome Page you can look at the information that you provided on here, and edit the information as well.
+<img src="/images/FinalCompanyHome.png">
 
+### Add Position Page
 The student and company can also add positions onto their profiles to inform others of what they are looking for.
-<img src="/images/AddPosition.png">
+<img src="/images/FinalAddPosition.png">
 
 ## Milestone 1: Mockup development
 
