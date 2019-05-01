@@ -71,6 +71,8 @@ You will then need to install [meteor](https://www.meteor.com/install) as well a
 After meteor and chocolately are installed on your system you are ready to start the app. You will need to cd into uhire-app/app like the example below.
 <img src="/images/CommandPromptPath.png">
 
+This application uses map api and there for must install the package into the app by invoking meteor npm install --save google-map-react.
+
 Once in the app you will invoke meteor npm run start to start the app.
 The app is shown running at [http://localhost:3000/](http://localhost:3000/)
 <img src="/images/RunStart.png">
