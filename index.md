@@ -2,7 +2,7 @@
 
 * [Overview](#overview)
 * [Development history](#development-history)
-** [Developer guide](#developer-guide)
+* [Developer guide](#developer-guide)
 * [User Guide](#User-guide)
 * [Milestone 1: Mockup development](#milestone-1-mockup-development)
 * [Milestone 2: Update Functionality](#milestone-2-update-functionality)
@@ -11,7 +11,6 @@
 # Overview
 
 UHire is a Meteor application that provides company and student profiles. Based on the information provided companies can contact students to hire, or the students can view companies they are interested in and contact those companies as well. 
-
 Here is the running page on Galaxy: [UHire](http://uhire.meteorapp.com/#/)
 
 # Development History 
@@ -57,15 +56,13 @@ Next is the Sign In page. On this page you can sign in to your account if you al
 The Sign up page allows you to fill out a form to create an account.
 <img src="/images/SignUpV2.png">
 
-If you are a Student you will have access to the StudentHomePage,BrowseCompany Page, and StudentProfile Page.
-Before you can access those pages you will need to fill out a form for the StudentProfile.
+If you are a Student you will have access to the StudentHomePage and Company Search Page.
+Before you can access those pages you will need to fill out a form for the StudentHome.
 <img src="/images/StudentInfo.png">
 
-On the BrowseCompany Page, a student can look for companies that they are interested in.
-<img src="/images/BrowseCompany.png">
-
-All the information provided on the previous form will be put into a card on the StudentProfile Page. The information here can also be edited.
-<img src="/images/StudentProfile.png">
+The most important feature on this website is the search feature.
+The student is able to search for companies and can filter by location and company name.
+<img src="/images/CompanySearch.png">
 
 If you are a Company you will have access to the CompanyHome Page, BrowseStudent Page, and CompanyProfile Page.
 Before you can access those pages you will need to fill out a form for the CompanyProfile.
