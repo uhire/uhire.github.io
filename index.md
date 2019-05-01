@@ -76,7 +76,7 @@ The following commands should be run to install required packages:
 meteor add aldeed:collection2@3.0.0\
 meteor npm install --save simpl-schema\
 meteor npm install --save google-map-react\
-meteor add aldeed:schema-index\
+meteor add aldeed:schema-index
 
 
 
