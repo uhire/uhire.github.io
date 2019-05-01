@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Overview](#overview)
-* [Developer guide](#developer-guide)
- * [Structure of Directory](#structure-of-directory)
- * [Imports](#imports)
+* [Developer guide](#developer-guide)  
+ * [Structure of Directory](#structure-of-directory)  
+ * [Imports](#imports)  
  * [Naming Conventions](#naming-conventions)
 * [User Guide](#User-guide)
 * [Development history](#development-history)
