@@ -18,10 +18,10 @@ UHire is being developed by Dre Cardinalli, John Yap, Keoni Fontanilla, Kyle Oka
 
 # Developer Guide
 ## Structure of Directory
-The very top level of the directory contains these files:
+The very top level of the directory contains these files:  
 <img src="/images/DirectoryStructureTopLevel.png">
 
-The top level of the app contains these files:
+The top level of the app contains these files:  
 <img src="/images/DirectoryStructureApp.png">
 
 First, you can clone the app from Github [UHire](https://github.com/uhire/uhire-app) onto your Github Desktop app.
