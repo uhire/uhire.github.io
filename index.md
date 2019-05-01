@@ -179,7 +179,7 @@ Student Profile:
 <img src="/images/StudentProfile.png">
 [StudentProfile](http://uhire.meteorapp.com/#/sprofile)
 
-Milestone 1 was implemented as [UHire GitHub Milestone M1](https://github.com/uhire/uhire-app/milestone/1?closed=1):
+Milestone 1 was implemented as [Milestone M1](https://github.com/uhire/uhire-app/milestone/1?closed=1):
 <img src="/images/M1Project.png">
 
 Milestone 1 consisted of 14 issues, and progress was managed via the [Uhire GitHub Project M1](https://github.com/uhire/uhire-app/projects/1):
@@ -197,7 +197,7 @@ The correct pages are being shown only to company roles or only to student roles
 Milestone 2 was implemented as [Milestone 2](https://github.com/uhire/uhire-app/milestone/2?closed=1):
 <img src="/images/M2Project.png">
 
-Milestone 2 consisted of 22 issues, and progress was managed via the [uhire GitHub Project M2](https://github.com/uhire/uhire-app/projects/2):
+Milestone 2 consisted of 22 issues, and progress was managed via the [Uhire GitHub Project M2](https://github.com/uhire/uhire-app/projects/2):
 <img src="/images/M2Closed.png">
 
 ## Milestone 3: Clean Up Pages
@@ -209,7 +209,7 @@ We have successfully corrected any previous errors from Milestone 2, improved fo
 Milestone 3 was implemented as [Milestone 3](https://github.com/uhire/uhire-app/milestone/3?closed=1):
 <img src="/images/M3Project.png">
 
-Milestone 3 consisted of 16 issues, and progress was managed via the [uhire GitHub Project M3](https://github.com/uhire/uhire-app/projects/3):
+Milestone 3 consisted of 16 issues, and progress was managed via the [Uhire GitHub Project M3](https://github.com/uhire/uhire-app/projects/3):
 <img src="/images/M3Closed.png">
 
 
