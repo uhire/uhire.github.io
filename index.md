@@ -52,10 +52,10 @@ The style used for Uhire is the same style for Semantic-UI-React. The basic CSS 
 The landing page is public to all users, whether they have accounts or not. A user must sign up and login to gain access to either the student role or company role. The student role has access to the student home page, landing page, and browse company page. The company role has access to the company home page, landing page, and browse student page.
 
 ## Configuration
-The config(https://github.com/uhire/uhire-app/tree/master/config) directory is used for default data as well as some test data. When mongoDB is started these accounts are created.
+The [config](https://github.com/uhire/uhire-app/tree/master/config) directory is used for default data as well as some test data. When mongoDB is started these accounts are created.
 
 ## Coding Standards
-The coding standard used for the development of the application was ESLint. This coding standard helps to create good coding habits and notifies users when certain things are missing. Go to this website to learn more about ESLint(https://eslint.org/).
+The coding standard used for the development of the application was ESLint. This coding standard helps to create good coding habits and notifies users when certain things are missing. Go to this website to learn more about [ESLint](https://eslint.org/).
 
 ## Installation Steps
 First, you can clone the app from Github [UHire](https://github.com/uhire/uhire-app) onto your Github Desktop app.
