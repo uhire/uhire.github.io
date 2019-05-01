@@ -74,7 +74,7 @@ On this page you can look at the information that you previously filled out in t
 
 If you are a Company you will have access to the CompanyHome Page, BrowseStudent Page, and CompanyProfile Page.
 Before you can access those pages you will need to fill out a form for the CompanyProfile.
-<img src="/images/CompanyInfo.png">
+<img src="/images/StudentHome.png">
 
 On the BrowseStudent Page companies can look at all the student currently using uhire.
 <img src="/images/BrowserStudent.png">
