@@ -47,18 +47,22 @@ The app is shown below in IntellijIdea.
 # User Guide
 At this point the app should be running in your web browser.
 
+### Landing Page
 First is the landing page.On this page you can click on sign up, sign in or the logo. Clicking on these buttons will redirect you to sign up page, sign in page and the landing page respectively.
 <img src="/images/LandingPage.png">
 
+### Sign In Page
 Next is the Sign In page. On this page you can sign in to your account if you already have an account or you can click the link on the bottom of the card to redirect you to the sign up page.
-<img src="/images/LoginV2.png">
+<img src="/images/FinalSignIn.png">
 
+### Sign Up Page
 The Sign up page allows you to fill out a form to create an account.
-<img src="/images/SignUpV2.png">
+<img src="/images/FinalSignUp.png">
 
+### Add Student Page
 If you are a Student you will have access to the StudentHomePage and Company Search Page.
 Before you can access those pages you will need to fill out a form for the StudentHome.
-<img src="/images/StudentInfo.png">
+<img src="/images/FinalAddStudent.png">
 
 ### Browse Companies Page
 The most important feature on this website is the search feature.
