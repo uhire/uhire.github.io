@@ -1,25 +1,29 @@
 # Table of contents
 
 * [Overview](#overview)
-* [Development history](#development-history)
 * [Developer guide](#developer-guide)
+ * [Structure of Directory](#structure-of-directory)
 * [User Guide](#User-guide)
-* [Milestone 1: Mockup development](#milestone-1-mockup-development)
-* [Milestone 2: Update Functionality](#milestone-2-update-functionality)
-* [Milestone 3: Clean Up Pages](#milestone-3-clean-up-pages)
+* [Development history](#development-history)
+ * [Milestone 1: Mockup development](#milestone-1-mockup-development)
+ * [Milestone 2: Update Functionality](#milestone-2-update-functionality)
+ * [Milestone 3: Clean Up Pages](#milestone-3-clean-up-pages)
 
 # Overview
 
 UHire is a Meteor application that provides company and student profiles. Based on the information provided companies can contact students to hire, or the students can view companies they are interested in and contact those companies as well. 
 Here is the running page on Galaxy: [UHire](http://uhire.meteorapp.com/#/)
 
-# Development History 
-
-The development process for UHire conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f16/modules/project-management/) practices. In a nutshell, development consists of a sequence of Milestones. Milestones consist of issues corresponding to 2-3 day tasks. GitHub projects are used to manage the processing of tasks during a milestone.  
-
 UHire is being developed by Dre Cardinalli, John Yap, Keoni Fontanilla, Kyle Okamoto, and Peter Newton.
 
 # Developer Guide
+## Structure of Directory
+The very top level of the directory contains these files:
+<img src="/images/DirectoryStructureTopLevel.png">
+
+The top level of the app contains these files:
+<img src="/images/DirectoryStructureApp.png">
+
 First, you can clone the app from Github [UHire](https://github.com/uhire/uhire-app) onto your Github Desktop app.
 <img src="/images/GithubCloneDownolad.png">
 
@@ -90,6 +94,10 @@ On the CompanyHome Page you can look at the information that you provided on her
 ### Add Position Page
 The student and company can also add positions onto their profiles to inform others of what they are looking for.
 <img src="/images/FinalAddPosition.png">
+
+# Development History 
+
+The development process for UHire conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f16/modules/project-management/) practices. In a nutshell, development consists of a sequence of Milestones. Milestones consist of issues corresponding to 2-3 day tasks. GitHub projects are used to manage the processing of tasks during a milestone.  
 
 ## Milestone 1: Mockup development
 
