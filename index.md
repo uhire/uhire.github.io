@@ -152,7 +152,7 @@ The development process for UHire conformed to [Issue Driven Project Management]
 
 ## Milestone 1: Mockup development
 
-Link to [Milestone](https://github.com/uhire/uhire-app/projects/1) 1 started on April 1, 2019 and is was finished on April 8, 2019.
+Link to [Milestone 1](https://github.com/uhire/uhire-app/projects/1) started on April 1, 2019 and is was finished on April 8, 2019.
 
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system. To simplify things, the mockup was developed as a Meteor app. This meant that each page was a template and changed accordingly.
 Mockups for the following four pages were implemented during M1:
