@@ -19,6 +19,7 @@
 * [Community Feedback](#community-feedback)
   * [Kimo Nakata](#kimo-nakata)
   * [Fred Sanford](#fred-sanford)
+  * [Ahmet Subedi](#ahmet-subedi)
   * [Anonymous Parent](#anonymous-parent)
   * [Anonymous Business student](#anonymous-business-student)
 
