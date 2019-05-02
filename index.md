@@ -237,7 +237,11 @@ To ensure that we are satisfying our customer's needs, we have requested respons
 - Listing my company was fast and easy. 
 - Being able to see the location on the map is great.
 
+## Anonymous Parent
 
+The UHIRE site provides an excellent place for employer and student to post their information to facilitate the hiring process in an efficient manner.  As an employer, UHIRE would be a very effective and efficient tool for identifying potential candidates.  
+
+During the process of registering my Company it was not clear that the red “*” meant that the field was required.  Also, after entering a position as an owner I accidentally hit the delete button and the position was deleted.  It would have been better if there was a confirmation of intent to delete prior to actually deleting position information.  Once a position has been added, it would be helpful if there was a function that allows the Company to identified the students with the same interests.  The site also let me enter an erroneous email address in error.  Requiring the email address to be entered twice would have highlighted this erroneous email address.  
 
 
 
