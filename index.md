@@ -20,7 +20,7 @@
   * [Kimo Nakata](#kimo-nakata)
   * [Fred Sanford](#fred-sanford)
   * [Anonymous Parent](#anonymous-parent)
-  * [Buisness student](#buisness-student)
+  * [Anonymous Buisness student](#anonymous-buisness-student)
 
 # Overview
 
