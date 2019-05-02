@@ -218,7 +218,7 @@ Milestone 2 consisted of 22 issues, and progress was managed via the [Uhire GitH
 <img src="/images/M2Closed.png">
 
 ## Milestone 3: Clean Up Pages
-Link to [Milestone 3](https://github.com/uhire/uhire-app/milestone/3)
+Link to [Milestone 3](https://github.com/uhire/uhire-app/projects/3)
 Milestone 3 began on April 22, 2019 and was completed on April 30, 2019.
 The goal of Milestone 3 is to finalize any remaining issues as well as creating presentable pages by adding their own flare.
 We have successfully corrected any previous errors from Milestone 2, improved form validation, and corrected the search functions.
