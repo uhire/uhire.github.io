@@ -234,8 +234,8 @@ To ensure that we are satisfying our customer's needs, we have requested respons
 - The landing page looks pretty messy.  Too much going on.
 
 ## Fred Sanford
+- Listing my company was fast and easy. 
 - Being able to see the location on the map is great.
-...think of more
 
 
 
