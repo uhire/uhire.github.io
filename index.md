@@ -233,6 +233,10 @@ To ensure that we are satisfying our customer's needs, we have requested respons
 - It's pretty cool that you can look at all the companies and isolate the ones you're interested in.
 - The landing page looks pretty messy.  Too much going on.
 
+## Fred Sanford
+- Being able to see the location on the map is great.
+...think of more
+
 
 
 
