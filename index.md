@@ -18,6 +18,8 @@
   * [Milestone 3: Clean Up Pages](#milestone-3-clean-up-pages)
 * [Community Feedback](#community-feedback)
   * [Kimo Nakata](#kimo-nakata)
+  * [Fred Sanford](#fred-sanford)
+  * [Anonymous Parent](#anonymous-parent)
 
 # Overview
 
@@ -226,7 +228,7 @@ Milestone 3 consisted of 16 issues, and progress was managed via the [Uhire GitH
 <img src="/images/M3Closed.png">
 
 # Community Feedback
-To ensure that we are satisfying our customer's needs, we have requested responses from random customers and and asked their opinon on the concept, look, functionality and overall performance of our web application.  These are the summarized testimonies of our customers.
+To ensure that we are satisfying our customer's needs, we have requested responses from random customers and asked their opinon on the concept, look, functionality and overall performance of our web application.  These are the summarized testimonies of our customers.
 
 ## Kimo Nakata
 - I like how you can apply for the job right there.
