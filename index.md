@@ -236,6 +236,7 @@ To ensure that we are satisfying our customer's needs, we have requested respons
 ## Fred Sanford
 - Listing my company was fast and easy. 
 - Being able to see the location on the map is great.
+- It would be nice to be able to post up our company events for students.
 
 ## Anonymous Parent
 
