@@ -223,6 +223,14 @@ Milestone 3 was implemented as [Milestone 3](https://github.com/uhire/uhire-app/
 Milestone 3 consisted of 16 issues, and progress was managed via the [Uhire GitHub Project M3](https://github.com/uhire/uhire-app/projects/3):
 <img src="/images/M3Closed.png">
 
+# Community Feedback
+To ensure that we are satisfying our customer's needs, we have requested responses from random customers and and asked their opinon on the concept, look, functionality and overall performance of our web application.  These are the summarized testimonies of our customers.
+
+## Kimo Nakata
+- I like how you can apply for the job right there.
+- It's pretty cool that you can look at all the companies and isolate the ones you're interested in.
+- The landing page looks pretty messy.  Too much going on.
+
 
 
 
