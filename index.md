@@ -112,7 +112,7 @@ Next is the Sign In page. On this page you can sign in to your account if you al
 
 ### Sign Up Page
 The Sign up page allows you to fill out a form to create an account.
-<img src="/images/FinalSignUp.png">
+<img src="/images/FinalSignUp.PNG">
 
 ### Add Student Page
 If you are a Student you will have access to the StudentHomePage and Company Search Page.
@@ -123,7 +123,7 @@ Before you can access those pages you will need to fill out a form for the Stude
 The most important feature on this website is the search feature.
 The student is able to search for companies and can filter by location and company name.
 <img src="/images/CompanySearch.png">
-
+CompanySearch.png
 ### Student Home Page
 On this page you can look at the information that you previously filled out in the form
 <img src="/images/StudentHome.png">
