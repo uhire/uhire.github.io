@@ -114,6 +114,10 @@ Next is the Sign In page. On this page you can sign in to your account if you al
 The Sign up page allows you to fill out a form to create an account.
 <img src="/images/FinalSignUp.PNG">
 
+### Successful Registration Page
+The Successful Registration page confirms that you have created an account.
+<img src="/images/Success.PNG">
+
 ### Add Student Page
 If you are a Student you will have access to the StudentHomePage and Company Search Page.
 Before you can access those pages you will need to fill out a form for the StudentHome.
