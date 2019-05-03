@@ -104,7 +104,7 @@ At this point the app should be running in your web browser.
 
 ### Landing Page
 First is the landing page.On this page you can click on sign up, sign in or the logo. Clicking on these buttons will redirect you to sign up page, sign in page and the landing page respectively.
-<img src="/images/LandingPage.png">
+<img src="/images/LandingPage.PNG">
 
 ### Sign In Page
 Next is the Sign In page. On this page you can sign in to your account if you already have an account or you can click the link on the bottom of the card to redirect you to the sign up page.
