@@ -167,11 +167,11 @@ Company Collection:
 Name,Location,Description,Contact Info, Image
 
 Landing Page:
-<img src="/images/LandingPage.png">
+<img src="/images/LandingPage.PNG">
 [LandingPage](http://uhire.meteorapp.com/#/)
 
 Company Home:
-<img src="/images/CompanyHome.png">
+<img src="/images/FinalCompanyHome.png">
 [CompanyHome](http://uhire.meteorapp.com/#/cohome)
 
 Student Home:
@@ -182,11 +182,8 @@ Admin Home:
 <img src="/images/AdminHome.png">
 [AdminHome](http://uhire.meteorapp.com/#/admin)
 
-Footer:
-<img src="/images/Footer1.png">
-
 Nav Bar:
-<img src="/images/LandingPage.png">
+<img src="/images/LandingPage.PNG">
 
 Company Profile:
 <img src="/images/Company Profile.png">
