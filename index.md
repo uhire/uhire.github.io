@@ -189,9 +189,6 @@ Company Profile:
 <img src="/images/Company Profile.png">
 [CompanyProfile](http://uhire.meteorapp.com/#/list)
 
-Student Profile:
-<img src="/images/StudentProfile.png">
-[StudentProfile](http://uhire.meteorapp.com/#/sprofile)
 
 Milestone 1 was implemented as [Milestone M1](https://github.com/uhire/uhire-app/milestone/1?closed=1):
 <img src="/images/M1Project.png">
